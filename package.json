@@ -1,0 +1,7 @@
+{
+    "name": "libs-boot",
+    "license": "MIT",
+    "devDependencies": {
+        "typescript": "^5.3.2"
+    }
+}
